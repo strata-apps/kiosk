@@ -15,4 +15,4 @@ export const KIOSK_AUTH = {
   enabled: true,
   email: "kiosk@campcatanese.org",
   password: "kiosk20252024",
-};
+}; 
